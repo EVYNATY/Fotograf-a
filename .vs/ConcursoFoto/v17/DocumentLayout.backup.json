@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Evelyn_Paz\\ConcursoFoto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1981560-5351-441F-A7E7-F87B79A7B09B}|LienzoWPF\\LienzoWPF.csproj|c:\\users\\administrator\\desktop\\evelyn_paz\\concursofoto\\lienzowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1981560-5351-441F-A7E7-F87B79A7B09B}|LienzoWPF\\LienzoWPF.csproj|solutionrelative:lienzowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1981560-5351-441F-A7E7-F87B79A7B09B}|LienzoWPF\\LienzoWPF.csproj|c:\\users\\administrator\\desktop\\evelyn_paz\\concursofoto\\lienzowpf\\forms\\ucnuevoparticipante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1981560-5351-441F-A7E7-F87B79A7B09B}|LienzoWPF\\LienzoWPF.csproj|solutionrelative:lienzowpf\\forms\\ucnuevoparticipante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1981560-5351-441F-A7E7-F87B79A7B09B}|LienzoWPF\\LienzoWPF.csproj|C:\\Users\\Administrator\\Desktop\\Evelyn_Paz\\ConcursoFoto\\lienzowpf\\forms\\ucnuevoparticipante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1981560-5351-441F-A7E7-F87B79A7B09B}|LienzoWPF\\LienzoWPF.csproj|solutionrelative:lienzowpf\\forms\\ucnuevoparticipante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UcNuevoParticipante.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Evelyn_Paz\\ConcursoFoto\\LienzoWPF\\Forms\\UcNuevoParticipante.xaml.cs",
+              "RelativeDocumentMoniker": "LienzoWPF\\Forms\\UcNuevoParticipante.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Evelyn_Paz\\ConcursoFoto\\LienzoWPF\\Forms\\UcNuevoParticipante.xaml.cs",
+              "RelativeToolTip": "LienzoWPF\\Forms\\UcNuevoParticipante.xaml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAlwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:37:47.956Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Evelyn_Paz\\ConcursoFoto\\LienzoWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LienzoWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Evelyn_Paz\\ConcursoFoto\\LienzoWPF\\MainWindow.xaml*",
+              "RelativeToolTip": "LienzoWPF\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T13:28:14.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UcNuevoParticipante.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Evelyn_Paz\\ConcursoFoto\\LienzoWPF\\Forms\\UcNuevoParticipante.xaml",
+              "RelativeDocumentMoniker": "LienzoWPF\\Forms\\UcNuevoParticipante.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Evelyn_Paz\\ConcursoFoto\\LienzoWPF\\Forms\\UcNuevoParticipante.xaml",
+              "RelativeToolTip": "LienzoWPF\\Forms\\UcNuevoParticipante.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T12:58:16.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

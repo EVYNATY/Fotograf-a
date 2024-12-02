@@ -1,0 +1,36 @@
+﻿<Window x:Class="LienzoWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LienzoWPF"
+        mc:Ignorable="d"
+        Title="INFORMATICA" Height="500" Width="850" Background="PowderBlue">
+    <Grid Margin="0,0,6,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <TextBlock TextWrapping="Wrap" Text="INSCRIPCIONES" FontSize="22" FontWeight="Bold" Width="188" Height="29"/>
+            <Button x:Name="BtnNuevo" 
+                Content="Nuevo Participante"
+                FontSize="16" 
+                Background="Transparent"
+                BorderThickness="0"
+                Width="196"  
+                Height="52" Click="BtnNuevo_Click"/>
+
+            <Button x:Name="BtnListar"
+                Content="Ver Participantes"
+                FontSize="16"
+                Background="Transparent"
+                BorderThickness="0"
+                Width="200"
+                Height="40" Click="BtnListar_Click"/>
+
+
+        </StackPanel>
+        <Grid x:Name="GrdMain" Margin="219,0,-638,0" />
+
+    </Grid>
+</Window>

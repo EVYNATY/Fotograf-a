@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{2F18DEF0-EDE1-4165-92B8-B3A607626B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{206C4D27-CA66-40D7-983A-2863C3B0F5FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LienzoWPF", "LienzoWPF\LienzoWPF.csproj", "{C1981560-5351-441F-A7E7-F87B79A7B09B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F18DEF0-EDE1-4165-92B8-B3A607626B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F18DEF0-EDE1-4165-92B8-B3A607626B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F18DEF0-EDE1-4165-92B8-B3A607626B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F18DEF0-EDE1-4165-92B8-B3A607626B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206C4D27-CA66-40D7-983A-2863C3B0F5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206C4D27-CA66-40D7-983A-2863C3B0F5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206C4D27-CA66-40D7-983A-2863C3B0F5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206C4D27-CA66-40D7-983A-2863C3B0F5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1981560-5351-441F-A7E7-F87B79A7B09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1981560-5351-441F-A7E7-F87B79A7B09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1981560-5351-441F-A7E7-F87B79A7B09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1981560-5351-441F-A7E7-F87B79A7B09B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EFD16E7-6C5F-4F16-9B15-EFA8EF9B6A95}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="LienzoWPF.Forms.UcNuevoParticipante"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LienzoWPF.Forms"
+             mc:Ignorable="d"
+             d:DesignHeight="500" Background="PowderBlue" Loaded="UserControl_Loaded" Width="633" >
+    <Grid Loaded="Grid_Loaded" Margin="0,0,7,27">
+
+
+        <Label Content="Nuevo Participante" FontSize="22" FontWeight="Bold" HorizontalAlignment="Left" Margin="83,23,0,0" VerticalAlignment="Top"/>
+
+        <Label Content="Nombre" FontSize="16" HorizontalAlignment="Left" Margin="80,79,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtNombre" HorizontalAlignment="Left" Margin="240,82,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="290" Height="23"/>
+
+        <Label Content="Correo electronico" FontSize="16" HorizontalAlignment="Left" Margin="79,130,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtMail" HorizontalAlignment="Left" Margin="240,135,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="290" Height="24"/>
+
+        <Label Content="Fecha Inscripcion" FontSize="16" HorizontalAlignment="Left" Margin="80,179,0,0" VerticalAlignment="Top"/>
+        <DatePicker Name="DtFechaInscripcion" HorizontalAlignment="Left" Margin="240,181,0,0" VerticalAlignment="Top" Width="290"/>
+
+        <Label Content="Nivel" FontSize="16" HorizontalAlignment="Left" Margin="84,230,0,0" VerticalAlignment="Top" RenderTransformOrigin="-3.019,0.235" Width="76"/>
+        <ComboBox Name="CboNivel" HorizontalAlignment="Left" Margin="240,238,0,0" VerticalAlignment="Top" Width="290"/>
+
+        <Label Content="Categoria" FontSize="16" HorizontalAlignment="Left" Margin="82,274,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="CboCategoria" HorizontalAlignment="Left" Margin="240,285,0,0" VerticalAlignment="Top" Width="290"/>
+
+        <Button x:Name="BtnGuardar" Content="Guardar" FontSize="17" HorizontalAlignment="Left" Margin="214,345,0,0" VerticalAlignment="Top" Height="32" Width="96" Click="BtnGuardar_Click"/>
+    </Grid>
+</UserControl>

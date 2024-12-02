@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Presentacion\bin\Debug\Logica.dll
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Presentacion\bin\Debug\Logica.pdb
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Presentacion\obj\Debug\Presentacion.pdb

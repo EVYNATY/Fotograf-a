@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Logica\bin\Debug\Logica.dll
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Logica\obj\Debug\Logica.dll
+C:\Users\Administrator\Desktop\Evecita\ConcursoFoto\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrator\Desktop\Evelyn_Paz\ConcursoFoto\Logica\bin\Debug\Logica.dll
+C:\Users\Administrator\Desktop\Evelyn_Paz\ConcursoFoto\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrator\Desktop\Evelyn_Paz\ConcursoFoto\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Evelyn_Paz\ConcursoFoto\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Evelyn_Paz\ConcursoFoto\Logica\obj\Debug\Logica.dll
+C:\Users\Administrator\Desktop\Evelyn_Paz\ConcursoFoto\Logica\obj\Debug\Logica.pdb
